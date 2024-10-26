@@ -8,7 +8,7 @@ public class Main {
 
         for (int i = 0; i <= 10; i++) {
             int soma = num * i;
-            System.out.println(num + " * " + i + " = " + soma);
+            System.out.println(num + " x " + i + " = " + soma);
         }
 
     }
