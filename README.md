@@ -17,7 +17,7 @@
       <li>O laço repete esse processo até que i alcance o valor 10, gerando, ao final, a tabuada completa do número fornecido.</li>
     </ul>
   </li>
-
+<br>
   <li>Saída de Resultados: A cada passo do laço, o programa exibe o resultado da multiplicação no formato de tabuada, para facilitar a compreensão dos produtos e permitir a visualização completa da operação.</li>
 </ul>
 
