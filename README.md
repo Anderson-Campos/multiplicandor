@@ -8,7 +8,7 @@
 <ul>
   <li>Entrada de Dados:<br>
       O programa começa solicitando que o usuário insira um número inteiro, que será utilizado para o cálculo da tabuada. O valor digitado é lido e armazenado na variável num.</li>
-
+<br>
   <li>Cálculo da Tabuada com Laço for:<br>
       O laço for é então usado para iterar de 0 a 10, calculando a multiplicação entre o número fornecido pelo usuário e o valor atual do contador (i). A cada iteração:
     <ul>
